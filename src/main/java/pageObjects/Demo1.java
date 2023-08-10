@@ -7,6 +7,8 @@ public class Demo1 {
 		
 		
 		System.out.println("rahul");
+		
+		System.out.println("rahul petkar");
 
 	}
 

@@ -17,7 +17,7 @@ public class AddToCartandDelete extends Base{
 	@Test
 	public void searchproduct() throws InterruptedException
 	{	
-		Loginpage  lp = new Loginpage(driver);
+		Loginpage  lp = new Loginpage(driver); 
 		ReusablemethodsHomepage1 rr =new ReusablemethodsHomepage1(driver);
 		ChildWindow cd = new ChildWindow(driver);
 		
