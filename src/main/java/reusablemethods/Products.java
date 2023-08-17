@@ -20,7 +20,7 @@ public class Products  {
 	}
 	
 	
-	@FindBy(className="//h2[contains(@class,'size-mini a-spacing-none a-color-base")
+	@FindBy(xpath="//h2[contains(@class,'size-mini a-spacing-none a-color-base")
 	WebElement product;
 	public void iphone14()
 	{
